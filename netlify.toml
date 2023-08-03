@@ -1,0 +1,7 @@
+[dev]
+    command = "pnpm dev"
+    port = 8888
+    functionsPort = 8888
+[build]
+    command = "pnpm build"
+    publish = "dist"
